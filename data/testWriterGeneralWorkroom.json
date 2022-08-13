@@ -1,0 +1,31 @@
+{
+    "subjects": [
+        {
+            "friday end time": 0,
+            "monday end time": 0,
+            "wednesday start time": 0,
+            "friday start time": 0,
+            "name": "class1",
+            "thursday start time": 11.5,
+            "tuesday end time": 0,
+            "wednesday end time": 0,
+            "thursday end time": 12.5,
+            "tuesday start time": 0,
+            "monday start time": 0
+        },
+        {
+            "friday end time": 15,
+            "monday end time": 0,
+            "wednesday start time": 0,
+            "friday start time": 14,
+            "name": "class2",
+            "thursday start time": 0,
+            "tuesday end time": 0,
+            "wednesday end time": 0,
+            "thursday end time": 0,
+            "tuesday start time": 0,
+            "monday start time": 0
+        }
+    ],
+    "name": "My table"
+}

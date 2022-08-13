@@ -1,0 +1,31 @@
+{
+    "subjects": [
+      {
+        "friday end time": 10,
+        "monday end time": 8,
+        "wednesday start time": 0,
+        "friday start time": 9,
+        "name": "econ",
+        "thursday start time": 0,
+        "tuesday end time": 0,
+        "wednesday end time": 0,
+        "thursday end time": 0,
+        "tuesday start time": 0,
+        "monday start time": 7
+      },
+      {
+        "friday end time": 18,
+        "monday end time": 19,
+        "wednesday start time": 0,
+        "friday start time": 16,
+        "name": "cpsc",
+        "thursday start time": 0,
+        "tuesday end time": 0,
+        "wednesday end time": 0,
+        "thursday end time": 0,
+        "tuesday start time": 0,
+        "monday start time": 18
+      }
+    ],
+    "name": "myTable"
+}
